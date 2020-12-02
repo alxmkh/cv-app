@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+Будет удалено .gitignore
+Будет удалено README.md
+Будет удалено package.json
+Будет удалено public/
+Будет удалено src/
+Будет удалено tsconfig.json
+Будет удалено yarn.lock
